@@ -1,0 +1,65 @@
+*{
+    font-size: 19px;
+    font-family: "Century Gothic";
+
+}
+h1,h2{
+    font-family: "Century Gothic";
+}
+h1{
+    font-size:150%;
+
+    padding-left: 50px;
+}
+h2{
+    font-size:106%;
+    padding-left: 50px;
+}
+
+body{
+
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+header{
+    background-color:rgba(255, 201, 9, 0.97);
+    /*background-image: url("images/estepa.png");*/
+    font-size:35px;
+    /*border-radius: 36px 0px 36px 0px;*/
+    border-radius: 0px 36px 0px 36px;
+}
+footer{
+    font-family: "Century Gothic";
+    max-width: 1024px;
+    font-style: oblique;
+    background-color: #d29e09;
+    padding-left: 50px;
+    padding-right:50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 0px 36px 0px 36px;
+    position: fixed;
+    bottom: 0;
+}
+ul{
+    border-radius: 0px 36px 0px 36px;
+    background-color: #d29e09;
+    padding-left: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    list-style-type: none;
+
+
+}
+ul li{
+
+    font-weight: bold;
+    min-width: 100px;
+    display:inline;
+
+}
+nav{
+    position: fixed;
+    top: 0;
+}
