@@ -176,7 +176,8 @@
                     attributeName="opacity"
                     from="1"
                     to="0"
-                    dur="10s"
+                    dur="10
+                    s"
 
                     begin="click + 1s"
                     id="p1-anim1" />
